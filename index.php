@@ -105,7 +105,7 @@
             </section>
             <div class="containey">
               <div class="item">
-                <img src="b6/anh1.jpg" alt="Image 1" />
+                <img src="anh/anh1.jpg" alt="Image 1" />
                 <div class="overlay">
                     <h2>Buổi 1:</h2>
                     <a href="./buoi1/bai1.php">Bài 1</a>
@@ -114,7 +114,7 @@
                   </div>
                 </div>
                 <div class="item">
-                  <img src="b6/anh2.JPG" alt="Image 2" />
+                  <img src="anh/anh2.JPG" alt="Image 2" />
                   <div class="overlay">
                     <h2>Buổi 2:</h2>
                     <a href="./buoi2/bai3.1.php">Bài 3.1</a>
@@ -123,23 +123,25 @@
                     <a href="./buoi2/bai4.php">Bài 4</a>
                   </div>
                 </div>
-                <!-- <div class="item">
-                  <img src="b6/anh3.JPG" alt="Image 3" />
+                <div class="item">
+                  <img src="anh/anh3.JPG" alt="Image 3" />
                   <div class="overlay">
                     <h2>Buổi 3:</h2>
-                    <a href="">Bài 1</a>
-                    <a href="">Bài 2</a>
+                    <a href="./buoi3/get.php">GET</a>
+                    <a href="./buoi3/post.php">POST</a>
+                    <a href="./buoi3/bai1.php">Bài 1</a>
+                    <a href="./buoi3/bai2.html">Bài 2</a>
                   </div>
                 </div>
                 <div class="item">
-                  <img src="b6/anh5.JPG" alt="Image 4" />
+                  <img src="anh/anh5.JPG" alt="Image 4" />
                   <div class="overlay">
                     <h2>Buổi 4:</h2>
-                    <a href="">Bài 1</a>
-                    <a href="">Bài 2</a>
+                    <a href="./buoi4/bai1.php">Bài 1</a>
+                    <a href="./buoi4/bai2.php">Bài 2</a>
                   </div>
                 </div>
-                <div class="item">
+                <!-- <div class="item">
                   <img src="b6/anh6.jpg" alt="Image 5" />
                   <div class="overlay">
                     <h2>Buổi 5:</h2>
