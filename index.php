@@ -141,15 +141,18 @@
                     <a href="./buoi4/bai2.php">Bài 2</a>
                   </div>
                 </div>
-                <!-- <div class="item">
+                <div class="item">
                   <img src="b6/anh6.jpg" alt="Image 5" />
                   <div class="overlay">
                     <h2>Buổi 5:</h2>
-                    <a href="">Bài 1</a>
-                    <a href="">Bài 2</a>
+                    <a href="./buoi6/Creat.php">Creat</a>
+                    <a href="./buoi6/Delete.php">Delete</a>
+                    <a href="./buoi6/Insert.php">Insert</a>
+                    <a href="./buoi6/Update.php">Update</a>
+                    <a href="./buoi6/View.php">View</a>
                   </div>
                 </div>
-                <div class="item">
+                <!-- <div class="item">
                   <img src="b6/anh7.JPG" alt="Image 6" />
                   <div class="overlay">
                     <h2>Buổi 6:</h2>
